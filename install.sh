@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# LEMP installation script
+# LAMP installation script
 # Author: Saiful Islam
 sudo apt-get -y update
 sudo apt-get -y upgrade
