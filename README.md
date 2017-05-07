@@ -1,4 +1,4 @@
-# LAMP
+# LAMP (Apache2)
 LAMP Install and Uninstall Script
 
 ## Install
